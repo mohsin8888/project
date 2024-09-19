@@ -15,7 +15,7 @@ const BestSeller = () => {
 
   return (
     <>
-    <MainWrapper CustomClass={'!px-4 sm:!px-28'}>
+    <MainWrapper CustomClass={'!px-4 sm:!px-2'}>
     <div className='my-10'>
       <div className='text-center text-[1.8rem] py-4'>
         <Title text1='BEST' text2='SELLERS' />
